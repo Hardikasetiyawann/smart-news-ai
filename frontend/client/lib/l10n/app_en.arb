@@ -1,0 +1,293 @@
+{
+  "@@locale": "en",
+
+  "appName": "LensNews",
+
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "save": "Save",
+  "next": "Next",
+  "start": "Start",
+  "skip": "Skip",
+  "loading": "Loading...",
+
+  "login": "Login",
+  "loginSubtitle": "Login to your LensNews account",
+  "passwordHint": "Enter your password",
+  "loginNow": "Sign In",
+  "loginFailed": "Login Failed",
+  "loginError": "An error occurred during login",
+  "googleLogin": "Continue with Google",
+  "register": "Register",
+  "noAccount": "Don't have an account?",
+  "haveAccount": "Already have an account?",
+
+  "home": "Home",
+  "latestNews": "Latest News",
+  "dashboardTrending": "Trending",
+  "dashboardSeeAll": "See all",
+  "dashboardCategoryFallback": "Category",
+  "dashboardPublisherFallback": "Publisher",
+  
+  "dashboardViews": "{count} views",
+  "@dashboardViews": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+
+  "dashboardPublishers": "Publishers",
+  "dashboardLoading": "Loading dashboard...",
+  "dashboardLatest": "Latest",
+  "dashboardWelcomeBack": "Welcome back,",
+  "dashboardUserFallback": "User",
+  "detailAiSummary": "AI Summary",
+  "dashboardEmptyNews": "News not available",
+  "dashboardAll": "All",
+
+  "readingHistory": "Reading History",
+  "noHistory": "No history yet",
+
+  "profile": "Profile",
+
+  "settings": "Settings",
+  "account": "Account",
+  "general": "General",
+  "personalInfo": "Personal Information",
+  "security": "Password & Security",
+  "changeLanguage": "Change App Language",
+  "darkMode": "Dark Mode",
+  "help": "Help",
+  "privacyPolicy": "Privacy Policy",
+  "terms": "Terms of Service",
+  "about": "About LensNews",
+  "logout": "Logout",
+  "logoutConfirm": "Are you sure you want to logout?",
+
+  "onboardTitle1": "Latest News",
+  "onboardDesc1": "Stay connected with the latest news every day",
+  "onboardTitle2": "Personalized Content",
+  "onboardDesc2": "Choose your favorite topics",
+  "onboardTitle3": "In-depth Context",
+  "onboardDesc3": "Insights from various sources",
+
+  "helpIntroTitle": "We are here to help you",
+  "helpIntroDesc": "Find answers to frequently asked questions about using the LensNews application.",
+
+  "faqWhatIsTitle": "What is LensNews?",
+  "faqWhatIsDesc": "LensNews is a digital news application that provides the latest information from various categories with trusted sources.",
+
+  "faqFreeTitle": "Is LensNews free to use?",
+  "faqFreeDesc": "Yes, LensNews is free to use. Some additional features may be available in future versions.",
+
+  "faqChangeLanguageTitle": "How can I change the app language?",
+  "faqChangeLanguageDesc": "You can change the language through Settings → App Language.",
+
+  "faqNotificationSettingTitle": "How do I enable or disable notifications?",
+  "faqNotificationSettingDesc": "Notification settings can be changed through Settings → Notifications.",
+
+  "faqNoNotificationTitle": "Why am I not receiving news notifications?",
+  "faqNoNotificationDesc": "Make sure notifications are enabled in the app settings and your device system settings.",
+
+  "faqSaveNewsTitle": "How can I save news to read later?",
+  "faqSaveNewsDesc": "You can save news by tapping the save icon on the article page.",
+
+  "faqShareNewsTitle": "Can news be shared from LensNews?",
+  "faqShareNewsDesc": "Yes, you can share news to social media or other apps using the share button.",
+
+  "faqContactTitle": "How can I contact the LensNews team?",
+  "faqContactDesc": "Please contact us via official email or through the help menu available in the app.",
+
+  "termsHeader": "LENSNEWS TERMS OF SERVICE",
+  "termsEffectiveDate": "Effective as of: November 1, 2025",
+  "termsIntro": "Welcome to LensNews (the \"App\"), a digital news platform that allows users to access information, read news, enjoy editorial content, comment, save articles, and use other features.",
+
+  "termsSectionAboutTitle": "About the Application",
+  "termsSectionAboutBody": "LensNews is provided by PT Lens Media Nusantara (\"LensNews\", or \"We\").",
+
+  "termsSectionAccountTitle": "Account, Security, and Responsibility",
+  "termsSectionAccountBody": "Users are responsible for maintaining account security and password confidentiality.",
+
+  "termsSectionContentTitle": "Content and Services",
+  "termsSectionContentBody": "LensNews content comes from internal editors and third-party partners.",
+
+  "termsSectionPrivacyTitle": "User Privacy",
+  "termsSectionPrivacyBody": "LensNews respects user privacy.",
+
+  "termsSectionLimitationTitle": "Limitation of Liability",
+  "termsSectionLimitationBody": "LensNews is not liable for service interruptions or content errors.",
+
+  "termsSectionLawTitle": "Governing Law",
+  "termsSectionLawBody": "These terms are governed by the laws of the Republic of Indonesia.",
+
+  "termsClosing": "By using the LensNews App, users agree to be bound by these Terms.",
+
+  "aboutSectionAppTitle": "About the Application",
+  "aboutSectionAppBody1": "LensNews is a digital news application designed for a fast and relevant reading experience.",
+  "aboutSectionAppBody2": "LensNews helps users access trusted news in real-time.",
+
+  "aboutSectionVisionTitle": "Vision & Mission",
+  "aboutSectionVisionBody1": "To become a credible digital information hub.",
+  "aboutSectionVisionBody2": "Supporting information literacy and a comfortable user experience.",
+
+  "aboutSectionFeatureTitle": "Key Features",
+  "aboutFeature1": "Latest and trusted news",
+  "aboutFeature2": "Real-time notifications",
+  "aboutFeature3": "Save articles",
+  "aboutFeature4": "Theme and language settings",
+  "aboutFeature5": "Personalized categories",
+
+  "aboutSectionCommitmentTitle": "Our Commitment",
+  "aboutSectionCommitmentBody": "LensNews is committed to maintaining information quality and data security.",
+
+  "aboutFooter": "LensNews © 2025",
+
+  "profileSettingsTooltip": "Settings",
+  "profileUnlikeAction": "Remove Like",
+
+  "tapToChangePhoto": "Tap the camera icon to change your photo",
+
+  "accountInfoSection": "Account Information",
+  "editEmailTitle": "Change Email",
+  "emailDescription": "Email is used for login and account notifications.",
+  "emailHintNew": "Enter new email",
+  "emailInvalid": "Invalid email format",
+  "emailNotChanged": "Email has not changed",
+
+  "saveChanges": "Save Changes",
+
+  "historyTitle": "Reading History",
+  "historyEmpty": "No reading history yet",
+  "historyReadAt": "Read at",
+  "historyNewsId": "News ID",
+
+  "appVersion": "App Version {version}",
+  "@appVersion": {
+    "placeholders": {
+      "version": {}
+    }
+  },
+
+  "navHome": "Home",
+  "navExplore": "Explore",
+  "navBookmark": "Bookmark",
+  "navProfile": "Profile",
+
+  "drawerDashboard": "Dashboard",
+  "drawerSearch": "Search",
+  "drawerBookmarks": "Bookmarks",
+  "drawerProfile": "Profile",
+  "drawerNotifications": "Notifications",
+  "drawerSettings": "Settings",
+
+  "commentTitle": "Comments",
+  "commentEmpty": "No comments yet",
+  "commentHint": "Write a comment...",
+  "commentSave": "Save",
+  "commentCancel": "Cancel",
+  "commentEdit": "Edit",
+  "commentDelete": "Delete",
+  "commentReport": "Report",
+
+  "commentDeleteTitle": "Delete comment",
+  "commentDeleteConfirm": "Are you sure you want to delete this comment?",
+  "commentNo": "No",
+  "commentYes": "Yes",
+
+  "report": "Report",
+  "reportCommentTitle": "Report Comment",
+  "reportNewsTitle": "Report News",
+  "reportSuccess": "Report submitted successfully",
+  "reportHint": "Write the reason for the report...",
+
+  "successTitle": "Success!",
+  "successSubtitle": "Your account is ready to use",
+  "openHome": "Open Home",
+
+  "splashLoading": "Loading application...",
+
+  "privacyIntro1": "This Privacy Policy applies to the LensNews app.",
+  "privacyIntro2": "By using the app, you agree to this policy.",
+
+  "privacySectionCollectTitle": "Personal Data Collection",
+  "privacySectionCollectBody": "We collect data necessary to provide services.",
+
+  "privacySectionUseTitle": "Use of Information",
+  "privacySectionUseBody": "Data is used to improve user experience.",
+
+  "privacySectionShareTitle": "Information Sharing",
+  "privacySectionShareBody": "We do not sell personal data.",
+
+  "privacySectionSecurityTitle": "Data Security",
+  "privacySectionSecurityBody": "We protect data with high security standards.",
+
+  "privacySectionRetentionTitle": "Data Retention",
+  "privacySectionRetentionBody": "Data is stored according to legal requirements.",
+
+  "privacySectionRightsTitle": "User Rights",
+  "privacySectionRightsBody": "Users may request data deletion.",
+
+  "privacySectionChangeTitle": "Policy Changes",
+  "privacySectionChangeBody": "This policy may be updated at any time.",
+
+  "privacyClosing": "By using LensNews, you agree to this policy.",
+
+  "privacyHeader": "LENSNEWS PRIVACY POLICY",
+  "privacyEffectiveDate": "Effective date: November 24, 2025",
+
+  "bookmarkTitle": "Bookmarks",
+  "bookmarkClear": "Clear all bookmarks",
+  "bookmarkEmpty": "No bookmarks yet",
+
+  "searchTitle": "Search News",
+  "searchHint": "Search news...",
+  "searchInitialHint": "Type a news keyword",
+  "searchEmptyResult": "No news found",
+
+  "emailLabel": "Email",
+
+  "profileLikedNewsTitle": "Liked News",
+  "profileEmptyLikedNews": "No liked news yet",
+  "deleteHistory": "Delete this history?",
+  "select": "Select",
+  "historySelectedCount": "{count} selected",
+  "@historySelectedCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+
+  "selectAll": "Select all",
+  "unselectAll": "Unselect all",
+  "delete": "Delete",
+  "notifications": "Notifications",
+  "noNotifications": "No notifications yet",
+
+  "notificationToday": "Today, {date}",
+  "@notificationToday": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+
+  "notificationYesterday": "Yesterday, {date}",
+  "@notificationYesterday": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+
+  "notificationLoading": "Loading notifications...",
+  "notificationDelete": "Delete notification",
+  "notificationSettings": "Notification Settings",
+  "notificationSection": "Notifications",
+  "notificationNewsTitle": "Latest news notifications",
+  "notificationNewsSubtitle": "Receive notifications when new articles are published",
+  "notificationSilentTitle": "Silent mode",
+  "notificationSilentSubtitle": "Notifications will not appear on your device",
+  "notificationSettingsError": "Failed to load notification settings"
+}

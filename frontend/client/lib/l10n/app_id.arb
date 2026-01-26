@@ -1,0 +1,293 @@
+{
+  "@@locale": "id",
+
+  "appName": "LensNews",
+
+  "cancel": "Batal",
+  "confirm": "Konfirmasi",
+  "save": "Simpan",
+  "next": "Lanjut",
+  "start": "Mulai",
+  "skip": "Lewati",
+  "loading": "Memuat...",
+
+  "login": "Login",
+  "loginSubtitle": "Login ke akun LensNews",
+  "passwordHint": "Masukkan kata sandi Anda",
+  "loginNow": "Masuk Sekarang",
+  "loginFailed": "Login Gagal",
+  "loginError": "Terjadi kesalahan saat login",
+  "googleLogin": "Lanjutkan dengan Google",
+  "register": "Daftar",
+  "noAccount": "Belum punya akun?",
+  "haveAccount": "Sudah punya akun?",
+
+  "home": "Beranda",
+  "latestNews": "Berita Terbaru",
+  "dashboardTrending": "Trending",
+  "dashboardSeeAll": "Lihat semuanya",
+  "dashboardCategoryFallback": "Kategori",
+  "dashboardPublisherFallback": "Penerbit",
+  
+  "dashboardViews": "{count} dilihat",
+  "@dashboardViews": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+
+  "dashboardPublishers": "Penerbit",
+  "dashboardLoading": "Memuat dashboard...",
+  "dashboardLatest": "Terbaru",
+  "dashboardWelcomeBack": "Selamat datang kembali,",
+  "dashboardUserFallback": "Pengguna",
+  "detailAiSummary": "Ringkas AI",
+  "dashboardEmptyNews": "Berita tidak tersedia",
+  "dashboardAll": "Semua",
+
+  "readingHistory": "Riwayat Bacaan",
+  "noHistory": "Belum ada riwayat",
+
+  "profile": "Profil",
+
+  "settings": "Pengaturan",
+  "account": "Akun",
+  "general": "Umum",
+  "personalInfo": "Informasi Pribadi",
+  "security": "Kata Sandi dan Keamanan",
+  "changeLanguage": "Ubah Bahasa Aplikasi",
+  "darkMode": "Mode Gelap",
+  "help": "Bantuan",
+  "privacyPolicy": "Kebijakan Privasi",
+  "terms": "Ketentuan Layanan",
+  "about": "Tentang LensNews",
+  "logout": "Keluar",
+  "logoutConfirm": "Apakah Anda yakin ingin keluar?",
+
+  "onboardTitle1": "Berita terkini",
+  "onboardDesc1": "Tetap terhubung dengan berita terbaru setiap hari",
+  "onboardTitle2": "Personalisasi konten",
+  "onboardDesc2": "Pilih topik favoritmu",
+  "onboardTitle3": "Konteks mendalam",
+  "onboardDesc3": "Analisis dari berbagai sumber",
+
+  "helpIntroTitle": "Kami siap membantu Anda",
+  "helpIntroDesc": "Temukan jawaban atas pertanyaan yang sering diajukan terkait penggunaan aplikasi LensNews.",
+
+  "faqWhatIsTitle": "Apa itu LensNews?",
+  "faqWhatIsDesc": "LensNews adalah aplikasi berita digital yang menyediakan informasi terkini dari berbagai kategori dengan sumber terpercaya.",
+
+  "faqFreeTitle": "Apakah LensNews gratis digunakan?",
+  "faqFreeDesc": "Ya, LensNews dapat digunakan secara gratis. Beberapa fitur tambahan mungkin tersedia di versi pengembangan selanjutnya.",
+
+  "faqChangeLanguageTitle": "Bagaimana cara mengubah bahasa aplikasi?",
+  "faqChangeLanguageDesc": "Anda dapat mengubah bahasa melalui menu Pengaturan → Bahasa Aplikasi.",
+
+  "faqNotificationSettingTitle": "Bagaimana cara mengaktifkan atau mematikan notifikasi?",
+  "faqNotificationSettingDesc": "Pengaturan notifikasi dapat diubah melalui menu Pengaturan → Notifikasi.",
+
+  "faqNoNotificationTitle": "Mengapa saya tidak menerima notifikasi berita?",
+  "faqNoNotificationDesc": "Pastikan notifikasi diaktifkan di pengaturan aplikasi dan pengaturan sistem perangkat Anda.",
+
+  "faqSaveNewsTitle": "Bagaimana cara menyimpan berita untuk dibaca nanti?",
+  "faqSaveNewsDesc": "Anda dapat menyimpan berita dengan menekan ikon simpan pada halaman artikel.",
+
+  "faqShareNewsTitle": "Apakah berita di LensNews dapat dibagikan?",
+  "faqShareNewsDesc": "Ya, Anda dapat membagikan berita ke media sosial atau aplikasi lain melalui tombol bagikan.",
+
+  "faqContactTitle": "Bagaimana cara menghubungi tim LensNews?",
+  "faqContactDesc": "Silakan hubungi kami melalui email resmi atau menu bantuan yang tersedia di aplikasi.",
+
+  "termsHeader": "KETENTUAN PENGGUNAAN APLIKASI LENSNEWS",
+  "termsEffectiveDate": "Berlaku sejak: 1 November 2025",
+  "termsIntro": "Selamat datang di LensNews (\"Aplikasi\"), platform berita digital yang memungkinkan Pengguna mengakses berbagai informasi, membaca berita, menikmati konten editorial, berkomentar, menyimpan artikel, dan menggunakan fitur lainnya.",
+
+  "termsSectionAboutTitle": "Tentang Aplikasi",
+  "termsSectionAboutBody": "Aplikasi LensNews disediakan oleh PT Lens Media Nusantara (\"LensNews\", atau \"Kami\").",
+
+  "termsSectionAccountTitle": "Akun, Keamanan, dan Tanggung Jawab",
+  "termsSectionAccountBody": "Pengguna bertanggung jawab menjaga keamanan akun dan kerahasiaan kata sandi.",
+
+  "termsSectionContentTitle": "Konten dan Layanan",
+  "termsSectionContentBody": "Konten LensNews berasal dari redaksi internal dan mitra pihak ketiga.",
+
+  "termsSectionPrivacyTitle": "Privasi Pengguna",
+  "termsSectionPrivacyBody": "LensNews menghargai privasi Pengguna.",
+
+  "termsSectionLimitationTitle": "Batasan Tanggung Jawab",
+  "termsSectionLimitationBody": "LensNews tidak bertanggung jawab atas gangguan layanan atau kesalahan konten.",
+
+  "termsSectionLawTitle": "Hukum yang Berlaku",
+  "termsSectionLawBody": "Ketentuan ini diatur berdasarkan hukum Republik Indonesia.",
+
+  "termsClosing": "Dengan menggunakan Aplikasi LensNews, Pengguna menyatakan setuju dan terikat pada Ketentuan ini.",
+
+  "aboutSectionAppTitle": "Tentang Aplikasi",
+  "aboutSectionAppBody1": "LensNews adalah aplikasi berita digital yang dirancang untuk pengalaman membaca yang cepat dan relevan.",
+  "aboutSectionAppBody2": "LensNews membantu pengguna mengakses berita terpercaya secara real-time.",
+
+  "aboutSectionVisionTitle": "Visi & Misi",
+  "aboutSectionVisionBody1": "Menjadi pusat informasi digital yang kredibel.",
+  "aboutSectionVisionBody2": "Mendukung literasi informasi dan pengalaman pengguna yang nyaman.",
+
+  "aboutSectionFeatureTitle": "Fitur Utama",
+  "aboutFeature1": "Berita terkini dan terpercaya",
+  "aboutFeature2": "Notifikasi real-time",
+  "aboutFeature3": "Simpan artikel",
+  "aboutFeature4": "Pengaturan tema dan bahasa",
+  "aboutFeature5": "Personalisasi kategori",
+
+  "aboutSectionCommitmentTitle": "Komitmen Kami",
+  "aboutSectionCommitmentBody": "LensNews berkomitmen menjaga kualitas informasi dan keamanan data.",
+
+  "aboutFooter": "LensNews © 2025",
+
+  "profileSettingsTooltip": "Pengaturan",
+  "profileUnlikeAction": "Batalkan Suka",
+
+  "tapToChangePhoto": "Ketuk ikon kamera untuk mengubah foto",
+
+  "accountInfoSection": "Informasi Akun",
+  "editEmailTitle": "Ubah Email",
+  "emailDescription": "Email digunakan untuk login dan notifikasi akun.",
+  "emailHintNew": "Masukkan email baru",
+  "emailInvalid": "Format email tidak valid",
+  "emailNotChanged": "Email tidak berubah",
+
+  "saveChanges": "Simpan Perubahan",
+
+  "historyTitle": "Riwayat Bacaan",
+  "historyEmpty": "Belum ada riwayat",
+  "historyReadAt": "Dibaca",
+  "historyNewsId": "ID Berita",
+
+  "appVersion": "Versi Aplikasi {version}",
+  "@appVersion": {
+    "placeholders": {
+      "version": {}
+    }
+  },
+
+  "navHome": "Beranda",
+  "navExplore": "Pencarian",
+  "navBookmark": "Bookmark",
+  "navProfile": "Profil",
+
+  "drawerDashboard": "Dashboard",
+  "drawerSearch": "Pencarian",
+  "drawerBookmarks": "Bookmark",
+  "drawerProfile": "Profil",
+  "drawerNotifications": "Notifikasi",
+  "drawerSettings": "Pengaturan",
+
+  "commentTitle": "Komentar",
+  "commentEmpty": "Belum ada komentar",
+  "commentHint": "Tulis komentar...",
+  "commentSave": "Simpan",
+  "commentCancel": "Batal",
+  "commentEdit": "Edit",
+  "commentDelete": "Hapus",
+  "commentReport": "Laporkan",
+
+  "commentDeleteTitle": "Hapus komentar",
+  "commentDeleteConfirm": "Apakah Anda yakin ingin menghapus komentar ini?",
+  "commentNo": "Tidak",
+  "commentYes": "Ya",
+
+  "report": "Laporkan",
+  "reportCommentTitle": "Laporkan Komentar",
+  "reportNewsTitle": "Laporkan Berita",
+  "reportSuccess": "Laporan berhasil dikirim",
+  "reportHint": "Tuliskan alasan laporan...",
+
+  "successTitle": "Selamat!",
+  "successSubtitle": "Akun Anda siap digunakan",
+  "openHome": "Buka Beranda",
+
+  "splashLoading": "Memuat aplikasi...",
+
+  "privacyIntro1": "Kebijakan Privasi ini berlaku untuk aplikasi LensNews.",
+  "privacyIntro2": "Dengan menggunakan aplikasi, Anda menyetujui kebijakan ini.",
+
+  "privacySectionCollectTitle": "Pengumpulan Informasi Pribadi",
+  "privacySectionCollectBody": "Kami mengumpulkan data yang diperlukan untuk layanan.",
+
+  "privacySectionUseTitle": "Penggunaan Informasi",
+  "privacySectionUseBody": "Data digunakan untuk meningkatkan pengalaman pengguna.",
+
+  "privacySectionShareTitle": "Pembagian Informasi",
+  "privacySectionShareBody": "Data tidak dijual kepada pihak ketiga.",
+
+  "privacySectionSecurityTitle": "Keamanan Informasi",
+  "privacySectionSecurityBody": "Kami melindungi data dengan standar keamanan tinggi.",
+
+  "privacySectionRetentionTitle": "Penyimpanan Data",
+  "privacySectionRetentionBody": "Data disimpan sesuai ketentuan hukum.",
+
+  "privacySectionRightsTitle": "Hak Pengguna",
+  "privacySectionRightsBody": "Pengguna dapat meminta penghapusan data.",
+
+  "privacySectionChangeTitle": "Perubahan Kebijakan",
+  "privacySectionChangeBody": "Kebijakan dapat diperbarui sewaktu-waktu.",
+
+  "privacyClosing": "Dengan menggunakan LensNews, Anda menyetujui kebijakan ini.",
+
+  "privacyHeader": "KEBIJAKAN PRIVASI LENSNEWS",
+  "privacyEffectiveDate": "Berlaku sejak: 24 November 2025",
+
+  "bookmarkTitle": "Bookmark",
+  "bookmarkClear": "Hapus semua bookmark",
+  "bookmarkEmpty": "Belum ada bookmark",
+
+  "searchTitle": "Cari Berita",
+  "searchHint": "Cari berita...",
+  "searchInitialHint": "Ketik kata kunci berita",
+  "searchEmptyResult": "Berita tidak ditemukan",
+
+  "emailLabel": "Email",
+
+  "profileLikedNewsTitle": "Berita Disukai",
+  "profileEmptyLikedNews": "Belum ada berita yang disukai",
+  "deleteHistory": "Hapus riwayat ini?",
+  "select": "Pilih",
+  "historySelectedCount": "{count} dipilih",
+  "@historySelectedCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+
+  "selectAll": "Pilih semua",
+  "unselectAll": "Batal pilih semua",
+  "delete": "Hapus",
+  "notifications": "Notifikasi",
+  "noNotifications": "Belum ada notifikasi",
+
+  "notificationToday": "Hari ini, {date}",
+  "@notificationToday": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+
+  "notificationYesterday": "Kemarin, {date}",
+  "@notificationYesterday": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+
+  "notificationLoading": "Memuat notifikasi...",
+  "notificationDelete": "Hapus notifikasi",
+  "notificationSettings": "Pengaturan Notifikasi",
+  "notificationSection": "Notifikasi",
+  "notificationNewsTitle": "Notifikasi berita terkini",
+  "notificationNewsSubtitle": "Terima pemberitahuan saat ada berita terbaru",
+  "notificationSilentTitle": "Mode tenang",
+  "notificationSilentSubtitle": "Notifikasi tidak akan muncul di perangkat",
+  "notificationSettingsError": "Gagal memuat pengaturan notifikasi"
+}

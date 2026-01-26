@@ -1,0 +1,7 @@
+PORT= XXXX
+DB_HOST=XXXX
+DB_USER=XXXX
+DB_PASS=XXX
+DB_NAME=XXXX
+
+JWT_SECRET=rahasia_dapur_admin_ganteng_123

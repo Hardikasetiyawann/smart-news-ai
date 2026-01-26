@@ -1,0 +1,16 @@
+const path = require('path');
+
+module.exports = {
+  // Memberitahu CLI bahwa config database ada di folder database/config
+  'config': path.resolve('database', 'config', 'config.js'),
+  
+  // Memberitahu CLI bahwa model ada di folder src/features (atau core)
+  // Ini path 'hack' agar CLI tidak bingung, arahkan ke folder tempat db.js berada
+  'models-path': path.resolve('src', 'core', 'config'), 
+  
+  // Lokasi folder seeders
+  'seeders-path': path.resolve('database', 'seeders'),
+  
+  // Lokasi folder migrations
+  'migrations-path': path.resolve('database', 'migrations')
+};

@@ -1,0 +1,61 @@
+# ===============================
+# Python / FastAPI
+# ===============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Virtual Environment
+venv/
+.env
+
+# ===============================
+# HuggingFace / Transformers
+# ===============================
+.cache/
+.cache/*
+hf_cache/
+models_cache/
+
+# Default HF cache (Windows & Unix)
+~/.cache/huggingface/
+C:/Users/*/.cache/huggingface/
+
+# ===============================
+# FastAPI / Uvicorn
+# ===============================
+*.pid
+*.sock
+
+# ===============================
+# OS / Editor
+# ===============================
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# ===============================
+# Testing / Coverage
+# ===============================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ===============================
+# Build / Distribution
+# ===============================
+dist/
+build/
+*.egg-info/
+
+# ===============================
+# Secrets
+# ===============================
+.env.*
